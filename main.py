@@ -39,7 +39,7 @@ def six():
 
 os.system("clear")
 
-num = random.ranint(1,6)
+num = random.randint(1,6)
 
 if num ==1:
 	os.system("clear")
